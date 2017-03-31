@@ -1,19 +1,19 @@
 # main links
 main:
   - title: "Mechanical"
-    url: https://frcdoneright.github.io/mechanical/
+    url: /mechanical
   - title: "Control Systems"
-    url: /control/
+    url: /control
   - title: "Business"
-    url: /business/
+    url: /business
   - title: "About"
-    url: /about/
+    url: /about
 
 directory:
   - title: Mechanical
     children:
-      - title: "Some option"
-        url: /mechanical/1/
+      - title: "Bearings & Bushings"
+        url: /mechanical/parts/bearings
       - title: "Other option"
         url: /mechanical/2/
       - title: "Optional"
