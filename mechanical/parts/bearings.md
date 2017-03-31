@@ -20,7 +20,7 @@ Because nearly all COTS gearboxes and wheels are designed around ½ inch hex or 
 | 0.875 OD         | 0.375 hexagon ID | FR6ZZ-Hex        |
 | 0.875 OD         | 0.375 round ID   | FR6ZZ            |
 | 1.125 OD         | 0.375 hexagon ID | FR6ZZL-Hex       |
-| 1.125 OD         | 0.500 hexagon ID | FR8ZZ-HEX        |
+| 1.125 OD         | 0.500 hexagon ID | FR8ZZ-Hex        |
 | 1.125 OD         | 0.500 round ID   | FR8ZZ            |
 
 
