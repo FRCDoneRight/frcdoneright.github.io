@@ -1,5 +1,7 @@
 ---
 title: Bearings & Bushings
+sidebar:
+  nav: "dir"
 ---
 
 # Bearings & Bushings

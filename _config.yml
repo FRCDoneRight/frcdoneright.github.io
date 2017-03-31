@@ -233,7 +233,7 @@ compress_html:
 defaults:
   - scope:
       path: ""
-      type: directory
+      type: dir
     values:
       sidebar:
-        nav: "directory"
+        nav: "dir"

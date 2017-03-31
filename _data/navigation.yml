@@ -9,7 +9,7 @@ main:
   - title: "About"
     url: /about
 
-directory:
+dir:
   - title: Mechanical
     children:
       - title: "Bearings & Bushings"
