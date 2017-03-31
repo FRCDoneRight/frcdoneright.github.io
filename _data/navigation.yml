@@ -8,3 +8,38 @@ main:
     url: /business/
   - title: "About"
     url: /about/
+
+directory:
+  - title: Mechanical
+    children:
+      - title: "Some option"
+        url: /mechanical/1/
+      - title: "Other option"
+        url: /mechanical/2/
+      - title: "Optional"
+        url: /mechanical/3/
+
+  - title: Control System
+    children:
+      - title: "Some option"
+        url: /control/1/
+      - title: "Other option"
+        url: /control/2/
+      - title: "Optional"
+        url: /control/3/
+
+  - title: Business
+    children:
+      - title: "Some option"
+        url: /business/1/
+      - title: "Other option"
+        url: /business/2/
+      - title: "Optional"
+        url: /business/3/
+
+  - title: Misc
+    children:
+      - title: "Some option"
+        url: /misc/1/
+      - title: "Other option"
+        url: /misc/2/
