@@ -14,10 +14,8 @@ dir:
     children:
       - title: "Bearings & Bushings"
         url: /mechanical/parts/bearings
-      - title: "Other option"
-        url: /mechanical/2/
-      - title: "Optional"
-        url: /mechanical/3/
+      - title: "Gears"
+        url: /mechanical/parts/gears
 
   - title: Control System
     children:
