@@ -4,6 +4,24 @@ title: Bearings & Bushings
 
 Bearings and bushing are designed to constrain relative motion, and reduce friction between rotating parts. There are a wide variety of bearings available, those most commonly used in FRC designs are discussed below.
 
+
+## Precision (ABEC-rated) Bearings
+
+In FRC, precision bearings are uncommon for most teams, but are preferred when a high tolerance is required. Most bearings from common FRC suppliers are standard - meaning that they have undefined and large possible tolerances. Precision bearings are rated using a scale from largest to smallest tolerances: ABEC 1, 3, 5, 7, 9, etc, where higher ABEC classes provide better precision, efficiency, and other requirements.
+
+There are a number of factors covered by the ABEC grades. One is the eccentricity (roundness) of the track in the inner ring, which determines run-out. The figures given below show the maximum eccentricity allowable.
+
+| Rating  | Tolerance               |
+|---------|-------------------------|
+| ABEC 1  | 0.0075 mm (0.000295")   |
+| ABEC 3  | 0.0050 mm (0.000197")   |
+| ABEC 5  | 0.0035 mm (0.000138")   |
+| ABEC 7  | 0.0025 mm (0.000098")   |
+| ABEC 9  | 0.0012 mm (0.000047")   |
+| ABEC 11 | 0.0006 mm (0.0000235")  |
+| ABEC 13 | 0.0003 mm (0.00001175") | 
+
+
 ## Radial Ball Bearings
 
 Radial ball bearing are the most common type of bearing used in all products. Normal construction is with both the inner and outer races having ball groves. Inside there are a number of ball bearing contained by cage. These bearing need to be lubricated with grease; in FRC we normally use sealed bearings that are pre-lubricated. Radial ball bearing are designed for radial loads, and some axial loads.
