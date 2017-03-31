@@ -26,7 +26,7 @@ There are a number of factors covered by the ABEC grades. One is the eccentricit
 
 Radial ball bearing are the most common type of bearing used in all products. Normal construction is with both the inner and outer races having ball groves. Inside there are a number of ball bearing contained by cage. These bearing need to be lubricated with grease; in FRC we normally use sealed bearings that are pre-lubricated. Radial ball bearing are designed for radial loads, and some axial loads.
 
-Because nearly all COTS gearboxes and wheels are designed around ½ inch hex or round shaft, the use of the deep groove inch size “R” bearings is an obvious choice. They are available with flanges (FR, typically used) and without (R) flanges. The most common used R8 size (0.5 inch ID, 1.125 inch OD) bearing are rated for 1000 pounds radial loads, and about 250 pound axial load. The most typically used FRC bearing are listed below.
+Because nearly all COTS gearboxes and wheels are designed around ½ inch hex or round shaft, the use of the deep groove inch size “R” bearings is an obvious choice. They are available with flanges (FR, typically used) and without (R) flanges. The most common used R8 size (0.5 inch ID, 1.125 inch OD) bearing are rated for 1000 pounds radial loads, and about 250 pound axial load. The most typically used FRC bearings are listed below.
 
 ##### Typical Bearings Used (R Inches Series)
 
