@@ -1,4 +1,5 @@
 ---
+layout: home
 title: Bearings & Bushings
 sidebar:
   nav: "dir"
@@ -41,6 +42,6 @@ Tapered Bearings are designed for both Axial and Radial Loads. These are the typ
 In locations where an axial load is applied, a thrust bearing is used to reduce friction. Depending on the load, there are thrust bearings with needle or ball bearings. For lower loads a simple “washer style” type of bearing made with bronze, Oilite™; Teflon™; or other plastics is quite sufficient.
 
 
-##Bushings
+## Bushings
 
 Bushing are similar to bearings, but lack any roller elements. They are typically used in lower-speed applications and may have slightly higher friction. Bushings are widely available in bronze, Oilite, PFTE (Teflon), and Nylon and other plastics.
