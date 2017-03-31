@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: Bearings & Bushings
 sidebar:
   nav: "dir"
